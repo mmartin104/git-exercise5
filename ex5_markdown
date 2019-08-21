@@ -1,0 +1,3 @@
+$ git log --stat will show the files listed, their paths, and the number and a summary of the number of changes made denoted by plus signs (file additions) and minus signs (subtractions) per commit.
+$ git log --path provides a view of the changes made within a file between commits.  Items that are added are denoted by a plus (+) sign and commonly colored in green and items that have been removed are tagged with a minus (-) sign and commonly colored in red.
+HEAD refers to the most recent commit.
